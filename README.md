@@ -4,7 +4,7 @@ Release Process:
 
     Release process currently has 2 python scripts and 2 shell scripts
     
-    1. Fecthing the summary from the relevant jira (<b>fetch_jira_desc.py</b>)
+    1. Fecthing the summary from the relevant jira (fetch_jira_desc.py)
     
         Ex: Jira - https://fourkites.atlassian.net/browse/AM-121
             Summary - Company master to global master mapping
